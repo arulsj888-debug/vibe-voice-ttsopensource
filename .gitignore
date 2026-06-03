@@ -176,3 +176,8 @@ tags
 exp
 .gradio/
 experimental_voices
+
+# local venv and test files
+venv_vibevoice/
+test_reply.wav
+*.wav
